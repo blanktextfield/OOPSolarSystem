@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\bin\Debug\netcoreapp3.1\SystemTotalMass.exe
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\bin\Debug\netcoreapp3.1\SystemTotalMass.deps.json
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\bin\Debug\netcoreapp3.1\SystemTotalMass.runtimeconfig.json
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\bin\Debug\netcoreapp3.1\SystemTotalMass.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\bin\Debug\netcoreapp3.1\SystemTotalMass.dll
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\bin\Debug\netcoreapp3.1\SystemTotalMass.pdb
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.AssemblyInfo.cs
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.dll
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.pdb
+C:\Users\mammu\source\repos\OOPSolarSystem\SystemTotalMass\obj\Debug\netcoreapp3.1\SystemTotalMass.genruntimeconfig.cache

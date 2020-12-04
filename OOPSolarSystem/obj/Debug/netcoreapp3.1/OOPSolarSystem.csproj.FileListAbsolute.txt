@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.AssemblyInfo.cs
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\bin\Debug\netcoreapp3.1\OOPSolarSystem.exe
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\bin\Debug\netcoreapp3.1\OOPSolarSystem.deps.json
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\bin\Debug\netcoreapp3.1\OOPSolarSystem.runtimeconfig.json
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\bin\Debug\netcoreapp3.1\OOPSolarSystem.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\bin\Debug\netcoreapp3.1\OOPSolarSystem.dll
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\bin\Debug\netcoreapp3.1\OOPSolarSystem.pdb
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.dll
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.pdb
+C:\Users\mammu\source\repos\OOPSolarSystem\OOPSolarSystem\obj\Debug\netcoreapp3.1\OOPSolarSystem.genruntimeconfig.cache
